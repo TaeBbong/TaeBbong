@@ -3,9 +3,7 @@
 ### 🔭 Languages & Frameworks
 - Flutter (Intermediate)
 - Django & Django REST Framework (Intermediate)
-- Crawler (Python & Node.js) (Intermediate)
 - React.js (Beginner)
-- Android Java Native (Beginner)
 
 
 ### 👯 Side Projects
