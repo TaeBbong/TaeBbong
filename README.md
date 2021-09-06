@@ -4,21 +4,20 @@
 - Flutter (Intermediate)
 - Django & Django REST Framework (Intermediate)
 - Crawler (Python & Node.js) (Intermediate)
-- Vue.js (Beginner)
+- React.js (Beginner)
 - Android Java Native (Beginner)
 
 
 ### 👯 Side Projects
 - [Flutter & Django Lecture](https://www.inflearn.com/course/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9E%A5%EA%B3%A0-%ED%80%B4%EC%A6%88%EC%95%B1-%EC%84%9C%EB%B2%84-%ED%92%80%EC%8A%A4%ED%83%9D)
-- Authoring about Django REST Framework
+- Authoring about Django REST Framework & Flutter
 - [Publishing Github Blog](https://taebbong.github.io)
 - [Co-Publishing DevKor Tech Blog](https://devkor.tistory.com/)
-- Freelance Developer on WishKet, OTwoJob
 
 
 ### 🌱 Interested in
-- Data Science with Python
-- Svelte.js
+- App Development Structure & Design Pattern
+- iOS Development
 
 
 ### 📫 Lectures
