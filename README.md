@@ -1,21 +1,20 @@
 ## 플러터, 장고를 좋아하는 개발자이자 강의 제작자 TaeBbong 입니다 👋
 
-### 🔭 Languages & Frameworks
-- Flutter (Intermediate)
-- Django & Django REST Framework (Intermediate)
-- React.js (Beginner)
+### 🔭 기술 스택
+- 메인(프론트) : Flutter / BloC / Provider
+- 메인(백엔드) : Django & Django REST Framework
+- React.js / Redux / Tailwind CSS / Node.js
 
 
-### 👯 Side Projects
-- [Flutter & Django Lecture](https://www.inflearn.com/course/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9E%A5%EA%B3%A0-%ED%80%B4%EC%A6%88%EC%95%B1-%EC%84%9C%EB%B2%84-%ED%92%80%EC%8A%A4%ED%83%9D)
-- Authoring about Django REST Framework & Flutter
+### 👯 사이드 프로젝트
+- [키덕 : 키보드 정보 조회 앱 서비스](https://github.com/TaeBbong/keyboard_duckhoo_app)
 - [Publishing Github Blog](https://taebbong.github.io)
-- [Co-Publishing DevKor Tech Blog](https://devkor.tistory.com/)
+- Authoring about Django REST Framework & Flutter
 
 
-### 🌱 Interested in
+### 🌱 관심
 - App Development Structure & Design Pattern
-- iOS Development
+- iOS 개발
 
 
 ### 📫 Lectures
