@@ -4,7 +4,7 @@
 
 ### 🔭 기술 스택
 - 메인(프론트) : `Flutter` / `BloC` / `Provider`
-- 메인(백엔드) : `Djang` / `Django REST Framework`
+- 메인(백엔드) : `Django` / `Django REST Framework`
 - 그외 할 수 있는 것 : `React.js` / `TailwindCSS` / `Node.js`
 
 
