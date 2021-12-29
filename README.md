@@ -1,9 +1,11 @@
 ## 플러터, 장고를 좋아하는 개발자이자 강의 제작자 TaeBbong 입니다 👋
 
+- [이력서 보러가기](https://organized-clownfish-f2a.notion.site/TaeBbong-cebd6a3448c44417b0164361791b42fe)
+
 ### 🔭 기술 스택
-- 메인(프론트) : Flutter / BloC / Provider
-- 메인(백엔드) : Django & Django REST Framework
-- React.js / Redux / Tailwind CSS / Node.js
+- 메인(프론트) : `Flutter` / `BloC` / `Provider`
+- 메인(백엔드) : `Djang` / `Django REST Framework`
+- 그외 할 수 있는 것 : `React.js` / `TailwindCSS` / `Node.js`
 
 
 ### 👯 사이드 프로젝트
