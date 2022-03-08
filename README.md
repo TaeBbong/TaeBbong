@@ -5,18 +5,19 @@
 ### 🔭 기술 스택
 - 메인(프론트) : `Flutter` / `BloC` / `Provider`
 - 메인(백엔드) : `Django` / `Django REST Framework`
-- 그 외 할 수 있는 것 : `React.js` / `TailwindCSS` / `Node.js`
+- 그 외 할 수 있는 것 : `React.js` / `TailwindCSS` / `Node.js` / `Flask`
 
 
 ### 👯 사이드 프로젝트
 - [키덕 : 키보드 정보 조회 앱 서비스](https://github.com/TaeBbong/keyboard_duckhoo_app)
 - [Publishing Github Blog](https://taebbong.github.io)
-- Authoring about Django REST Framework & Flutter
+- Django REST Framework 책 집필(진행 중)
+- Flutter 책 집필(진행 중)
 
 
 ### 🌱 관심
 - App Development Structure & Design Pattern
-- iOS 개발
+- iOS(Swift, SwiftUI)
 
 
 ### 📫 Lectures
