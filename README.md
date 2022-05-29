@@ -11,8 +11,8 @@
 ### 👯 사이드 프로젝트
 - [키덕 : 키보드 정보 조회 앱 서비스](https://github.com/TaeBbong/keyboard_duckhoo_app)
 - [Publishing Github Blog](https://taebbong.github.io)
-- Django REST Framework 책 집필(진행 중)
-- Flutter 책 집필(진행 중)
+- [백엔드를 위한 Django REST Framework with 파이썬](http://www.yes24.com/Product/Goods/109337398)
+- [쉽고 빠른 플러터 앱 개발](http://www.yes24.com/Product/Goods/109020524)
 
 
 ### 🌱 관심
