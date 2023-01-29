@@ -1,7 +1,5 @@
 ## 플러터, 장고를 좋아하는 개발자이자 강의 제작자 TaeBbong 입니다 👋
 
-- [이력서 보러가기](https://organized-clownfish-f2a.notion.site/TaeBbong-cebd6a3448c44417b0164361791b42fe)
-
 ### 🔭 기술 스택
 - 메인(프론트) : `Flutter` / `BloC` / `Provider`
 - 메인(백엔드) : `Django` / `Django REST Framework`
@@ -11,13 +9,13 @@
 ### 👯 사이드 프로젝트
 - [키덕 : 키보드 정보 조회 앱 서비스](https://github.com/TaeBbong/keyboard_duckhoo_app)
 - [Publishing Github Blog](https://taebbong.github.io)
-- [백엔드를 위한 Django REST Framework with 파이썬](http://www.yes24.com/Product/Goods/109337398)
-- [쉽고 빠른 플러터 앱 개발](http://www.yes24.com/Product/Goods/109020524)
+- [집필 : 백엔드를 위한 Django REST Framework with 파이썬](http://www.yes24.com/Product/Goods/109337398)
+- [집필 : 쉽고 빠른 플러터 앱 개발](http://www.yes24.com/Product/Goods/109020524)
 
 
 ### 🌱 관심
 - App Development Structure & Design Pattern
-- iOS(Swift, SwiftUI)
+- Web Full Stack
 
 
 ### 📫 Lectures
