@@ -1,9 +1,8 @@
 ## 플러터, 장고를 좋아하는 개발자이자 강의 제작자 TaeBbong 입니다 👋
 
 ### 🔭 기술 스택
-- 메인(프론트) : `Flutter` / `BloC` / `Provider`
+- 메인(프론트) : `Flutter` / `GetX`
 - 메인(백엔드) : `Django` / `Django REST Framework`
-- 그 외 할 수 있는 것 : `React.js` / `TailwindCSS` / `Node.js` / `Flask`
 
 
 ### 👯 사이드 프로젝트
@@ -15,7 +14,6 @@
 
 ### 🌱 관심
 - App Development Structure & Design Pattern
-- Web Full Stack
 
 
 ### 📫 Lectures
