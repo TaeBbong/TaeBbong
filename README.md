@@ -6,7 +6,9 @@
 
 
 ### 👯 사이드 프로젝트
-- [키덕 : 키보드 정보 조회 앱 서비스](https://github.com/TaeBbong/keyboard_duckhoo_app)
+- [hearthgg - 하스스톤 투기장, 정규전 랭킹 검색 웹 서비스](https://github.com/TaeBbong/hearthgg)
+- [헬스바보 - 운동 세트 수 카운트/기록 앱](https://github.com/TaeBbong/babo-health)
+- [chungmo](https://github.com/TaeBbong/chung-mo)
 - [Publishing Github Blog](https://taebbong.github.io)
 - [집필 : 백엔드를 위한 Django REST Framework with 파이썬](http://www.yes24.com/Product/Goods/109337398)
 - [집필 : 쉽고 빠른 플러터 앱 개발](http://www.yes24.com/Product/Goods/109020524)
@@ -14,6 +16,8 @@
 
 ### 🌱 관심
 - App Development Structure & Design Pattern
+- Dart CLI
+- Flutter packages & plugins
 
 
 ### 📫 Lectures
