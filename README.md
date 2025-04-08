@@ -1,6 +1,5 @@
 ## TaeBbong, Flutterian, Gonna be Google Developer Expert 👋
 
-🌐 [English](README.md) | [한국어](README.ko.md)
 
 ### 🔭 Tech Stack
 - `Flutter` / `GetX` / `Provider` / `Code generators`
