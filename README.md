@@ -9,7 +9,7 @@
 
 | Repo | PR | What I Added | Merged&nbsp;at | ✔️ |
 |------|----|--------------|---------------|:--:|
-| `flutter_local_notifications` | [#2639](https://github.com/MaikuB/flutter_local_notifications/pull/2639) | Expose `removeAllPendingNotificationRequests` | 2025-06-22 | ✔️ |
+| [flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications) | [#2639](https://github.com/MaikuB/flutter_local_notifications/pull/2639) | Expose `removeAllPendingNotificationRequests` | 2025-06-22 | ✔️ |
 
 
 ### 👯 Side Projects
