@@ -5,9 +5,12 @@
 [![TaeBbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeBbong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-### 🤝 Contributions
+## 🤝 Open-Source Contributions
 
-- [(feature) flutter_local_notifications - Expose `removeAllPendingNotificationRequests`](https://github.com/MaikuB/flutter_local_notifications/pull/2639)
+| Repo | PR | What I Added | Merged&nbsp;at | ✔️ |
+|------|----|--------------|---------------|:--:|
+| `flutter_local_notifications` | [#2639](https://github.com/MaikuB/flutter_local_notifications/pull/2639) | Expose `removeAllPendingNotificationRequests` | 2025-06-22 | ✔️ |
+
 
 ### 👯 Side Projects
 - [chungmo - Mobile Invitation scrap app with GPT API](https://github.com/TaeBbong/chungmo-app)
