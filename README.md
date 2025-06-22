@@ -1,10 +1,12 @@
 ## TaeBbong, Flutterian, Gonna be Google Developer Expert 👋
 
+![TaeBbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeBbong)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔭 Tech Stack
 - `Flutter` / `GetX` / `Provider` / `Code generators`
 - `Django` / `Django REST Framework` / `Flask`
-
+  
 
 ### 👯 Side Projects
 - [chungmo - Mobile Invitation scrap app with GPT API](https://github.com/TaeBbong/chungmo-app)
