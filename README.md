@@ -1,12 +1,13 @@
 ## TaeBbong, Flutterian, Gonna be Google Developer Expert 👋
 
-<div align="center">
-
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) ![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
 
 [![TaeBbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeBbong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)  
 
-</div>
+
+### 🤝 Contributions
+
+- [(feature) flutter_local_notifications - Expose `removeAllPendingNotificationRequests`](https://github.com/MaikuB/flutter_local_notifications/pull/2639)
 
 ### 👯 Side Projects
 - [chungmo - Mobile Invitation scrap app with GPT API](https://github.com/TaeBbong/chungmo-app)
