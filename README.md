@@ -1,6 +1,6 @@
 ## TaeBbong, Flutterian, Gonna be Google Developer Expert 👋
 
-![TaeBbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeBbong)](https://github.com/anuraghazra/github-readme-stats)
+[![TaeBbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeBbong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🔭 Tech Stack
