@@ -10,6 +10,7 @@
 | Repo | PR | What I Added | Merged&nbsp;at | ✔️ |
 |------|----|--------------|---------------|:--:|
 | [flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications) | [#2639](https://github.com/MaikuB/flutter_local_notifications/pull/2639) | Expose `removeAllPendingNotificationRequests` | 2025-06-22 | ✔️ |
+| [faker](https://github.com/drager/faker) | [#79](https://github.com/drager/faker/pull/79) | Added Korean phone number support | 2025-07-05 | ✔️ |
 
 
 ### 👯 Side Projects
