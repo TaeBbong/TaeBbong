@@ -4,8 +4,6 @@
 
 [![Speaker Deck](https://img.shields.io/static/v1?style=for-the-badge&message=Speaker+Deck&color=009287&logo=Speaker+Deck&logoColor=FFFFFF&label=)](https://speakerdeck.com/taebbong)
 
-[![TaeBbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeBbong&theme=holi)](https://github.com/anuraghazra/github-readme-stats)  
-
 
 ### 🤝 Open-Source Contributions
 
