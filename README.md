@@ -13,6 +13,7 @@
 | [faker](https://github.com/drager/faker) | [#79](https://github.com/drager/faker/pull/79) | Added Korean phone number support | 2025-07-05 | ✔️ |
 | [thorvg.flutter](https://github.com/thorvg/thorvg.flutter) | [#25](https://github.com/thorvg/thorvg.flutter/pull/25) | Add .cxx, .fvm files into .gitignore | 2025-07-16 | ✔️ |
 | [thorvg.flutter](https://github.com/thorvg/thorvg.flutter) | [#27](https://github.com/thorvg/thorvg.flutter/pull/27) | Rename app namepsace in example app | 2025-09-09 | ✔️ |
+| [thorvg.flutter](https://github.com/thorvg/thorvg.flutter) | [#27](https://github.com/thorvg/thorvg.flutter/pull/31) | Use parent constraints when Lottie widget size is not specified | 2025-10-19 | ✔️ |
 
 
 ### 👯 Side Projects
