@@ -17,7 +17,7 @@
 | [flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications) | [#2614](https://github.com/MaikuB/flutter_local_notifications/pull/2614) | Apply `namedParameters` | 2025-12-30 | ✔️ |
 | [flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications) | [#2750](https://github.com/MaikuB/flutter_local_notifications/pull/2750) | Return threadIdentifier via groupKey in getActiveNotifications | 2026-02-11 | ✔️ |
 | [llamadart](https://github.com/leehack/llamadart) | [#35](https://github.com/leehack/llamadart/pull/35) | Add .fvm into .gitignore | 2026-02-14 | ✔️ |
-| [llamadart](https://github.com/leehack/llamadart) | [#43](https://github.com/leehack/llamadart/pull/43) | Add .fvm into .gitignore | 2026-02-15 | ✔️ |
+| [llamadart](https://github.com/leehack/llamadart) | [#43](https://github.com/leehack/llamadart/pull/43) | Resolve tool call parsing issues and add complete tool execution loop | 2026-02-15 | ✔️ |
 
 
 ### 👯 Side Projects
